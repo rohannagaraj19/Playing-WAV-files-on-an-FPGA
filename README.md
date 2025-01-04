@@ -1,5 +1,4 @@
 # Playing-WAV-files-on-an-FPGA
-# ALL FILES ON THE MASTER BRANCH!!
 # Primarily built for the Urbana Board by RealDigital
 For use in doing PWM based audio on an FPGA.
 
