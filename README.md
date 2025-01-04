@@ -1,6 +1,6 @@
 # Playing-WAV-files-on-an-FPGA
-For use in doing PWM based audio on an FPGA
-All files on the main branch...
+# ALL FILES ON THE MAIN BRANCH!!
+For use in doing PWM based audio on an FPGA.
 
 Verilog files have a pwm driver. Change the bram instantiation to use the coe file you want. You can generate a .COE file using the wavPlayerHelper.ipynb which will walk you through the conversion of a .wav file to a .coe file.
 
